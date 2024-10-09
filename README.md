@@ -22,3 +22,8 @@
 
 **Contato:**
 - **E-mail:** matheuscostaps@gmail.com
+
+## Skills
+ <div style="display:inlice_block"><br>
+  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
+  <img align="center" alt="Matheus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
