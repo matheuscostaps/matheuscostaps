@@ -17,6 +17,7 @@
   
 ## Projetos Acadêmicos 
 - **Calculadora:** [Calculadora](https://github.com/matheuscostaps/calculadora.git)
+- **Advinhe o Número** [Advinhe](https://github.com/matheuscostaps/advinhacao.git)
 ---
 
 **Contato:**
