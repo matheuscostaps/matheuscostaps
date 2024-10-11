@@ -16,7 +16,7 @@
 - Site "News Gospel" com 20 milhões de acessos e 2,1 milhões de seguidores no Instagram
   
 ## Projetos Acadêmicos 
-- **Calculadora:** [Calculadora]([https://instagram.com/matheuscostaw](https://github.com/matheuscostaps/calculadora.git))
+- **Calculadora:** [Calculadora](https://github.com/matheuscostaps/calculadora.git)
 ---
 
 **Contato:**
